@@ -28,6 +28,12 @@ Discord has chat bot integration, which can be super useful. If there are bots y
 
 https://top.gg/
 
+## Polls
+
+Type /poll for creating simple polls.
+
+![](images/2022-10-21-11-49-26.png)
+
 ## Reminders
 
 Type /remind and you'll see example commands you can do to bring your attention back to a particular message or remind yourself to do something. 
