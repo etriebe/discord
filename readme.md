@@ -22,6 +22,12 @@ Threads will show in a particular channel's child structure but will disappear f
 
 ![](images/2022-10-21-11-39-36.png)
 
+## Online Status
+
+Look! You can see when your friends are online and what type of device they're on. Neat!
+
+![](images/2022-10-21-12-07-11.png)
+
 ## Bots
 
 Discord has chat bot integration, which can be super useful. If there are bots you want to add, let me know. Be warned, there are possibly a million anime-focused bots. Weebs love Discord. Also a ton of soccer-related bots. 
