@@ -40,6 +40,10 @@ Type /remind and you'll see example commands you can do to bring your attention 
 
 ![](images/2022-10-21-11-46-06.png)
 
+## Slash commands
+
+Discord has built in support commands like referenced above for creating a poll, a reminder or searching for a gif. Just type / and you'll see all the options.
+
 ## Pinned Messages
 View pinned messages. Click on the pin in the upper right. Let me know if you want a particular message pinned. Useful for things people might want to be able to reference for some period of time. Pinned messages can be unpinned. Just let me know. 
 
