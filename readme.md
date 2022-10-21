@@ -6,6 +6,12 @@ Feel free to create other channels. I think everyone should have permissions to.
 
 ![](images/2022-10-21-11-34-05.png)
 
+## Notification Settings
+
+Right click on any channel or group of channels and you can set notification settings for these.
+
+![](images/2022-10-21-13-30-52.png)
+
 ## Forum Channels
 
 Forum channels are like classic forums from back in the day. Use these for instances where discussion is not time-sensitive. Like for GSD, tool recommendations or how to do a particular project/task. For dad channel it might be stroller, car seat recommendations. 
