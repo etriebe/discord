@@ -22,6 +22,18 @@ Threads will show in a particular channel's child structure but will disappear f
 
 ![](images/2022-10-21-11-39-36.png)
 
+## Bots
+
+Discord has chat bot integration, which can be super useful. If there are bots you want to add, let me know. Be warned, there are possibly a million anime-focused bots. Weebs love Discord. Also a ton of soccer-related bots. 
+
+https://top.gg/
+
+## Reminders
+
+Type /remind and you'll see example commands you can do to bring your attention back to a particular message or remind yourself to do something. 
+
+![](images/2022-10-21-11-46-06.png)
+
 ## Pinned Messages
 View pinned messages. Click on the pin in the upper right. Let me know if you want a particular message pinned. Useful for things people might want to be able to reference for some period of time. Pinned messages can be unpinned. Just let me know. 
 
