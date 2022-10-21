@@ -8,7 +8,7 @@ Feel free to create other channels. I think everyone should have permissions to.
 
 ## Forum Channels
 
-Forum channels are like classic forums from back in the day. Use these for instances where discussion is not time-sensitive. Like for GSD, tool recommendations or how to do a particular project/task. 
+Forum channels are like classic forums from back in the day. Use these for instances where discussion is not time-sensitive. Like for GSD, tool recommendations or how to do a particular project/task. For dad channel it might be stroller, car seat recommendations. 
 
 ![](images/2022-10-21-11-35-50.png)
 
